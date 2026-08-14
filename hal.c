@@ -1,5 +1,4 @@
 #include <xc.h>
-#include "config.h"
 #include "hal.h"
 
 /* Define core clock frequency */
